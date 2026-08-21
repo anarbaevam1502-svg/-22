@@ -10,7 +10,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 # .env файлынан айнымалыларды жүктеу
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = "8823564336:AAGZgQSuUHVGMvfgExzd2csjg74QIvufaRI"
 
 # Логтарды баптау (қателерді бақылау үшін)
 logging.basicConfig(level=logging.INFO)
